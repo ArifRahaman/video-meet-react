@@ -22,7 +22,7 @@ app.use(
 );
 // app.use(cors());
 mongoose.connect(
-  "mongodb+srv://arifrahaman2606:NTambC6dzWTscSn1@mernstack.emb8nvx.mongodb.net/user"
+  "mongodb+srv://arifrahaman2606:<MY MONGODB PASSWORD>.emb8nvx.mongodb.net/user"
 );
 // app.post("/login", (req, res) => {
 //   const { email, password } = req.body;
